@@ -46,7 +46,7 @@ A premium, containerized Linux desktop environment built for high availability a
 ### 3. Accessing the Desktop
 Once the build is complete and the service is "Live":
 * Open your browser to: `https://your-app-name.onrender.com/vnc.html`
-* [cite_start]**VNC Password**: `admin123@a` [cite: 2]
+* [cite_start]**VNC Password**: `454864` [cite: 2]
 
 ---
 
