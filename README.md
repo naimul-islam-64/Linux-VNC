@@ -54,7 +54,7 @@ Once the build is complete and the service is "Live":
 
 ### Display Settings
 The environment is initialized with a high-definition workspace:
-* **Resolution**: `1360x768`
+* **Resolution**: `768x1360`
 * **VNC Port**: `7900` (Internal)
 * **Listen Port**: `8900` (Public/NoVNC)
 
